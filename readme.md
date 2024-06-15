@@ -122,4 +122,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Open Source CSS Headers and Footers (Free Code + Demos) | get ideas | https://devsnap.me/css-headers-footers |
+| Buttons With Awesome Hover Effects Using Only HTML & CSS | get ideas | https://youtu.be/MLfAW55_4cY?si=zvzhJqYgmrZumcY0 |
