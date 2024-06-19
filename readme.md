@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://github.com/Marielle05/">
 
-    <img src="" alt="" width="130" height="100">
   </a>
 
   <h3 align="center">WD-TorresSW3</h3>
