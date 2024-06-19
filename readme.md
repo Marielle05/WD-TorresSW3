@@ -8,7 +8,7 @@
 
   </a>
 
-  <h3 align="center">WD-TorresSW3</h3>
+  <h3 align="center">Seatwork 3: Header & Footer</h3>
 </div>
 
 <div align="center">
