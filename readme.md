@@ -5,21 +5,20 @@
 <br />
 <div align="center">
   <a href="https://github.com/Marielle05/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/" alt="" width="130" height="100">
+
+    <img src="" alt="" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
+
   <h3 align="center">WD-TorresSW3</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
   A Sanrio themed Website that showcases both static and animated headers and footers.
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
+
 ![](https://visit-counter.vercel.app/counter.png?page=Marielle05/WD-TorresSW3)
 
 ---
@@ -27,7 +26,6 @@
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,8 +52,6 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
 <!-- The following are just sample -->
 Description of the project in details.
 
@@ -66,7 +62,6 @@ Guiding Question:
 - What technology used and how it is used
 
 ### Key Components
-<!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
 - Hover Effect
@@ -76,12 +71,8 @@ Guiding Question:
 - Fading Effect
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CSS](https://youtu.be/MLfAW55_4cY?si=zvzhJqYgmrZumcY0)
-![CSS](https://devsnap.me/css-headers-footers)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -118,9 +109,8 @@ WD-ProjectName
 ```
 
 ## Resources
-
-<!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
 | Open Source CSS Headers and Footers (Free Code + Demos) | get ideas | https://devsnap.me/css-headers-footers |
 | Buttons With Awesome Hover Effects Using Only HTML & CSS | get ideas | https://youtu.be/MLfAW55_4cY?si=zvzhJqYgmrZumcY0 |
+|Github|get ideas|https://github.com/zyx-0314/WD-Seatwork-3|
